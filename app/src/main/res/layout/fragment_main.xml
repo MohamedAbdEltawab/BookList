@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/fragment_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rc_recycler_view_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:id="@id/tv_pleae_search_a_book"
+        android:layout_gravity="center"
+        android:text="@string/please_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        />
+    <!-- Empty view is only visible when the reyclerview has no items. -->
+    <TextView
+        android:id="@id/empty_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/No_books_found"
+        android:visibility="invisible"
+        />
+    <!-- TextView if Not Internet Connection  -->
+    <TextView
+        android:id="@id/tv_No_Internet_Connection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+
+        android:layout_gravity="center"/>
+    <ProgressBar
+        android:id="@id/pd_indicator"
+        android:layout_width="42sp"
+        android:layout_height="42sp"
+        android:layout_gravity="center"
+        android:visibility="invisible"/>
+</FrameLayout>

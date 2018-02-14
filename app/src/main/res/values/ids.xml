@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_splash" type="id" />
+    <item name="fl_main_frame" type="id" />
+    <item name="fragment_main" type="id" />
+    <item name="search_view" type="id" />
+    <item name="et_search" type="id" />
+    <item name="tv_book_author" type="id" />
+    <item name="tv_book_name" type="id" />
+    <item name="menu_search" type="id" />
+    <item name="pd_indicator" type="id" />
+    <item name="iv_bookImage" type="id" />
+    <item name="iv_details_book_image" type="id" />
+    <item name="tv_details_book_name" type="id" />
+    <item name="tv_details_book_author" type="id" />
+    <item name="tv_pleae_search_a_book" type="id" />
+    <item name="empty_view" type="id" />
+    <item name="tv_No_Internet_Connection" type="id">No Internet Connection</item>
+    <item name="btn_go_to_web" type="id" />
+    <item name="tv_details_book_description" type="id" />
+    <item name="book_title" type="id" />
+    <item name="details_toolbar" type="id" />
+</resources>

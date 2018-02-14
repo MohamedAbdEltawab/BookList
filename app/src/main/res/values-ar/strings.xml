@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book List</string>
+    <string name="tv_splash_text">Book Listing</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="search_hint">بحث</string>
+    <string name="app_label">Search Lable</string>
+    <string name="search_edit_text">بحث</string>
+    <string name="No_books_found">لا يوجد كتب</string>
+    <string name="NO_NET_CONNECTION">لا يوجد اتصال بالانترنت</string>
+    <string name="title_main_fragment">Book Listing</string>
+    <string name="please_search">من فضلك , ابحث عن كتاب</string>
+</resources>

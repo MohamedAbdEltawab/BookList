@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Book List</string>
+    <string name="tv_splash_text">Book Listing</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="search_hint">Search</string>
+    <string name="app_label">Search Lable</string>
+    <string name="search_edit_text">Search</string>
+    <string name="No_books_found">No books found</string>
+    <string name="NO_NET_CONNECTION">No Internet Connection</string>
+    <string name="title_main_fragment">Book Listing</string>
+    <string name="please_search">Please,  search a book</string>
+</resources>
